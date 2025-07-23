@@ -1,9 +1,8 @@
 # Hi, I'm Che Chalk  
-
 ## Aspiring Penetration Tester | Home Lab Architect | PowerShell + Bash Automation | CompTIA A+ (In Progress)  
 
 ### About Me  
-- Former heavy plant operator turned cybersecurity enthusiast — disciplined, detail-oriented, and thrives in hands-on technical environments.  
+- Former heavy plant operator transitioning to cybersecurity, specializing in network penetration testing through hands on lab environments.
 - **Home Lab:** Linux Hardening Lab, VulnHub VMs, Detection labs, Malware Analysis (Windows/Linux).  
 - **Certifications:** Pursuing CompTIA A+ (Nov 2025) → Pentest+ & OSCP long-term.  
 - **Goal:** Entry-level penetration testing or SOC roles — passionate about red teaming and vulnerability research.  

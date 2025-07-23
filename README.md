@@ -4,7 +4,7 @@
 
 ### **About Me**
 - 🏗️ Former **heavy plant operator** turned **cybersecurity enthusiast** — disciplined, detail-oriented, and thrives in hands-on technical environments.  
-- ⚡ **Home Lab:** Linux Hardening Lab, VulnHub VMs, custom attack/detection labs (Windows/Linux).  
+- ⚡ **Home Lab:** Linux Hardening Lab, VulnHub VMs, Detection labs, Malware Analysis  (Windows/Linux).  
 - 📜 **Certifications:** Pursuing **CompTIA A+** (Nov 2025) → **Pentest+ & OSCP** long-term.  
 - 🎯 **Goal:** Entry-level **penetration testing** or **SOC roles** — passionate about red teaming and vulnerability research.  
 

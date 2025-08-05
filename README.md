@@ -22,5 +22,5 @@
 * 🐍 Python scripts for scanning, parsing logs, and automating recon
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chechalk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
